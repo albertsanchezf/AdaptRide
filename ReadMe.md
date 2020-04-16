@@ -20,4 +20,4 @@ This 2 parameters must be set with the same values as the ones used to obtain th
 
 -*WINDOWSPLIT*: This defines in how many parts the window is splitted and therefore, the value of the overlapped window which is *WINDOWFRAME/WINDOWSPLIT*. For instance, WINDOWFRAME = 6000 and WINDOWSPLIT = 3 -> 1st window: 0-6 sec | 2nd window: 2-8 sec | ...
 
-Considerations: The ride file must have at least one line in the incidents description header in order to indicate fields 'Bike' and 'pLoc'
+**Considerations**: The ride file must have at least one line in the incidents description header in order to indicate fields 'Bike' and 'pLoc'
